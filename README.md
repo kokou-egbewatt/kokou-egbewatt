@@ -4,18 +4,46 @@
 
 ***___About Me___***
 
-I am a passionate **Software Engineer** with a deep fascination for automation and a strong interest in emerging technologies. Over the years, I've gained expertise in various fields, including **Big Data**, **Machine Learning**, **Blockchain**, and **Distributed Systems**. I am driven by the challenges of creating scalable, efficient, and innovative solutions that push the boundaries of what's possible.
+I am a passionate **Software & Platform Engineer** with a fascination for **automation**, **real-time systems**, and **emerging technologies**. My work bridges the worlds of **Big Data**, **Machine Learning**, **Blockchain**, and **Distributed Systems**, where I design and build solutions that are **scalable, resilient, and future-ready**.  
 
-- 🌐 **Automation**: I am a firm believer in automating repetitive tasks to optimize workflows, reduce human error, and improve efficiency. I leverage cutting-edge tools and frameworks to achieve high levels of automation across multiple environments.
-  
-- 🧠 **Big Data & Machine Learning**: I'm constantly exploring the world of Big Data analytics and machine learning. I work with massive datasets to extract insights and build predictive models that help solve complex problems.
+Beyond technology itself, I am deeply motivated by the potential of **AI and distributed systems to support human well-being**. I’m particularly interested in how emerging technologies can be applied to help people with **neurological conditions** such as autism — combining innovation with purpose to make a positive impact.  
 
-- 🔗 **Blockchain**: My curiosity extends to the world of decentralized technologies, including blockchain. I explore the implications of blockchain for security, data integrity, and the next generation of distributed applications.
+- 🌐 **Automation**: I believe in automating everything that can be automated — from infrastructure to deployment pipelines — to create efficient, reliable, and reproducible workflows.  
+- 🧠 **Big Data & Machine Learning**: I enjoy working with large-scale data, building models, and creating systems that extract real value from complex datasets.  
+- 🔗 **Decentralized & Emerging Tech**: I explore technologies like blockchain and event-driven architectures to push the boundaries of secure and distributed applications.  
+- 🖥 **Distributed & Cloud Systems**: I specialize in designing fault-tolerant, cloud-native systems capable of handling real-time workloads at scale.  
+- 💡 **Tech for Social Good**: I am inspired by the intersection of **AI, healthcare, and accessibility**, seeking ways to create tools that empower individuals and improve quality of life.  
 
-- 🖥 **Distributed Systems**: I am passionate about building and maintaining distributed systems that are robust, scalable, and fault-tolerant, ensuring smooth operation across diverse platforms.
+---
 
-📄 Experiences [Egbewatt Kokou - Resume](https://infinintyworld.notion.site/Egbewatt-Kokou-Resume-089feb9f4ab7434589ced391a794e028?pvs=4)
+### 🛠️ **Core Skills**
+
+- **Cloud & DevOps** → AWS, Azure, Kubernetes, Terraform, GitHub Actions  
+- **Streaming & Distributed Systems** → WebRTC, gRPC, Kafka, event-driven architectures  
+- **Machine Learning & Data** → Python, PyTorch, feature extraction, real-time inference pipelines  
+- **Programming & Frameworks** → Go, Python, TypeScript/React, FastAPI  
+- **Infrastructure & Automation** → CI/CD, Infrastructure-as-Code, Observability  
+
+---
+
+### 📌 **Highlighted Work**
+
+I love working on projects that combine:  
+- ⚡ **Real-time systems** → Building services that handle streaming data and low-latency processing.  
+- 🧩 **Applied ML** → Creating intelligent pipelines where models connect seamlessly with live systems.  
+- 🔐 **Resilient Platforms** → Designing distributed, cloud-native infrastructures with reliability and scalability in mind.  
+- 🌍 **AI for Impact** → Exploring how emerging technologies can support **neurodiversity** and healthcare innovations, ensuring technology serves people as much as progress.  
+
+---
+
+📄 Experiences → [Egbewatt Kokou - Resume](https://infinintyworld.notion.site/Egbewatt-Kokou-Resume-089feb9f4ab7434589ced391a794e028?pvs=4)
+
+---
 
 ### **Connect:**
 
-<table><tbody><tr><td><a href="https://linkedin.com/in/kinfinity3"><img src="https://img.shields.io/badge/-kinfinity3-blue?style=flat-square&amp;logo=linkedin&amp;logoColor=white&amp;link=https://linkedin.com/in/kinfinity3" alt="LinkedIn"></a></td><td><a href="https://twitter.com/egbewattkokou"><img src="https://img.shields.io/twitter/follow/egbewattkokou?logo=twitter&amp;style=for-the-badge" alt="egbewattkokou"></a></td><td><a href="mailto:kokou.egbewatt@gmail.com"><img src="https://img.shields.io/badge/Email-kokou.egbewatt%40gmail.com-red?style=flat-square" alt="Email"></a></td></tr></tbody></table>
+<table><tbody><tr>
+<td><a href="https://linkedin.com/in/kinfinity3"><img src="https://img.shields.io/badge/-kinfinity3-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/kinfinity3" alt="LinkedIn"></a></td>
+<td><a href="https://x.com/KokouEgbewatt"><img src="https://img.shields.io/twitter/follow/egbewattkokou?logo=twitter&style=for-the-badge" alt="egbewattkokou"></a></td>
+<td><a href="mailto:kokou.egbewatt@gmail.com"><img src="https://img.shields.io/badge/Email-kokou.egbewatt%40gmail.com-red?style=flat-square" alt="Email"></a></td>
+</tr></tbody></table>
