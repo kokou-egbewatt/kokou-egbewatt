@@ -18,11 +18,17 @@ Beyond technology itself, I am deeply motivated by the potential of **AI and dis
 
 ### 🛠️ **Core Skills**
 
-- **Cloud & DevOps** → AWS, Azure, Kubernetes, Terraform, GitHub Actions  
-- **Streaming & Distributed Systems** → WebRTC, gRPC, Kafka, event-driven architectures  
-- **Machine Learning & Data** → Python, PyTorch, feature extraction, real-time inference pipelines  
-- **Programming & Frameworks** → Go, Python, TypeScript/React, FastAPI  
-- **Infrastructure & Automation** → CI/CD, Infrastructure-as-Code, Observability  
+☁️ **Cloud Platforms** → AWS, Azure, GCP, Heroku  
+📦 **Containerization & Orchestration** → Docker, Kubernetes  
+🛠️ **Infrastructure-as-Code & Config Management** → Terraform, Ansible, Vagrant  
+⚡ **CI/CD & Automation** → GitHub Actions, Jenkins, GitLab CI, Azure DevOps, AWS CodeBuild, Bamboo  
+👨‍💻 **Programming & Scripting** → Go, Python, C++, Java, Node.js, C# .NET, PHP, Bash, PowerShell, Groovy  
+🏬 **Databases** → PostgreSQL, MySQL, MongoDB  
+📊 **Development Practices & Tools** → Agile, Scrum, Kanban, SDLC, Jira, Notion, Resource Planning  
+🧠 **Machine Learning & Data** → Python (PyTorch, scikit-learn), feature extraction, real-time inference pipelines  
+📡 **Streaming & Distributed Systems** → gRPC, WebRTC, Kafka, event-driven architectures  
+🔍 **Observability & Reliability** → Logging, monitoring, distributed tracing  
+💻 **Operating Systems** → Linux, Windows   
 
 ---
 
